@@ -71,6 +71,20 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env.local
+.env.production
+.env.development
+
+# API keys and secrets
+*.key
+*.pem
+secrets/
+.secrets
+config/secrets.json
+
+# Service account files
+*service-account*.json
+*credentials*.json
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
