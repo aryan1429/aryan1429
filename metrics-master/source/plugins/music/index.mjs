@@ -270,7 +270,7 @@ export default async function({login, imports, data, q, account}, {enabled = fal
             try {
               //Request access token
               console.debug(`metrics/compute/${login}/plugins > music > requesting access token with youtube refresh token`)
-              const res = await imports.axios.post("https://music.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30", {
+              const res = await imports.axios.post("https://music.youtube.com/youtubei/v1/browse?alt=json&key=YOUR_API_KEY", {
                 browseEndpointContextSupportedConfigs: {
                   browseEndpointContextMusicConfig: {
                     pageType: "MUSIC_PAGE_TYPE_PLAYLIST",
