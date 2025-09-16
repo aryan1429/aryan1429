@@ -43,8 +43,8 @@ const aryan = {
     location: "🌍 India",
     currentFocus: "Full Stack Development",
     learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    hobbies: ["🎮 Gaming", "🥊 Boxing", "🎵 Music", "🕺 Dancing", "🎥 Video Editing],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    hobbies: ["🎮 Gaming", "🥊 Boxing", "🎵 Music", "🕺 Dancing", "🎥 Video Editing"],
+    funFact: ["I debug with console.log() and I'm proud of it! 😄"]
 };
 ```
 
