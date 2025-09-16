@@ -4,11 +4,11 @@
 </div>
 
 <!-- Typing Animation -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/aryan1429">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Aryan;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Aryan;Full+Stack+Developer&center=true&width=500&height=50" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <!-- Profile Views Counter -->
 <div align="center">
