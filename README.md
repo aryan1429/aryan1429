@@ -1,20 +1,6 @@
 ﻿<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api---
-
-## 📊 GitHub Statistic---
-
-## ---
-
-## 📈 Contribution AnalyticsGitH        <h3 align="center">💰 Ex        <h3 align="cente---
-
-## 💼 Experienc---
-
-## 📚 Latest Blog Postsimeline💼 M---
-
-  <p>💬---
-
-## 📈 Weekly Coding Activity  <p>Made with ❤️ by <a href="https://github.com/aryan1429">Aryan</a></p> always open to interesting conversations and collaboration opportunities!</p># 🤝 Let's Connect!ortfolio</h3>ense Tracker</h3>b Trophies=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -90,7 +76,7 @@ const aryan = {
 
 ---
 
-## ðŸ“Š GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <table>
@@ -117,7 +103,7 @@ const aryan = {
 
 ---
 
-## ðŸ† GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aryan1429&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -125,7 +111,7 @@ const aryan = {
 
 ---
 
-## ðŸ“ˆ Contribution Analytics
+## 📈 Contribution Analytics
 
 <!-- 3D Contribution Calendar -->
 <div align="center">
@@ -160,7 +146,7 @@ const aryan = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">ðŸ’° Expense Tracker</h3>
+        <h3 align="center">💰 Expense Tracker</h3>
         <div align="center">  
           <a href="https://github.com/aryan1429/Expense_tracker" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=Expense_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Expense Tracker" />
@@ -192,7 +178,7 @@ const aryan = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">ðŸ’¼ My Portfolio</h3>
+        <h3 align="center">💼 My Portfolio</h3>
         <div align="center">  
           <a href="https://github.com/aryan1429/My-Portfolio" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="My Portfolio" />
@@ -218,7 +204,7 @@ const aryan = {
 
 ---
 
-## ðŸ’¼ Experience Timeline
+## 💼 Experience Timeline
 
 ```mermaid
 gantt
@@ -238,7 +224,7 @@ gantt
 
 ---
 
-## ðŸ“š Latest Blog Posts
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Scalable Applications with Node.js](https://dev.to/aryan1429/building-scalable-applications-with-nodejs)
@@ -277,10 +263,10 @@ If you like my work and want to support me:
 
 ---
 
-## ðŸ¤ Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
-  <p>ðŸ’¬ I'm always open to interesting conversations and collaboration opportunities!</p>
+  <p>💬 I'm always open to interesting conversations and collaboration opportunities!</p>
   
   <img src="https://img.shields.io/badge/Open_to-Collaborations-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Available_for-Freelance-blue?style=for-the-badge" />
@@ -289,7 +275,7 @@ If you like my work and want to support me:
 
 ---
 
-## ðŸ“ˆ Weekly Coding Activity
+## 📈 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
@@ -301,6 +287,8 @@ CSS          30 mins         â–‘â–‘â–‘â–‘â–‘â–‘â�
 Other        15 mins         â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   1.4%
 ```
 <!--END_SECTION:waka-->
+
+---
 
 ---
 
@@ -320,7 +308,7 @@ Other        15 mins         â–‘â–‘â–‘â–‘â–‘â–‘â�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
-  <p>Made with â¤ï¸ by <a href="https://github.com/aryan1429">Aryan</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/aryan1429">Aryan</a></p>
   
   <img src="https://komarev.com/ghpvc/?username=aryan1429&label=Thanks%20for%20visiting%20my%20profile!&color=brightgreen&style=flat" alt="Thanks for visiting" />
 </div>
