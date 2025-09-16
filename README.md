@@ -41,45 +41,53 @@
 const aryan = {
     pronouns: "He/Him",
     location: "🌍 India",
-    currentFocus: "Full Stack Development",
-    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
+    currentFocus: "Full Stack Development & AI",
+    learning: ["Machine Learning", "Flutter", "Fine Tuning AI Models"],
     hobbies: ["🎮 Gaming", "🥊 Boxing", "🎵 Music", "🕺 Dancing", "🎥 Video Editing"],
-    funFact: ["I debug with console.log() and I'm proud of it! 😄"]
+    funFact: "I create AI chatbots with attitude and debug with console.log()! 😄",
+    currentProjects: ["mr-sarcastic", "Text-MoodDJ", "Deep-Learning"],
+    techStack: ["TypeScript", "JavaScript", "Python", "HTML/CSS"]
 };
 ```
 
-- 🔭 Currently working on **Mr-Sarcastic AI BOT**
+- 🔭 Currently working on **Mr-Sarcastic AI BOT** & **Deep Learning Projects**
 - 🌱 Learning **Flutter for App Development and Fine Tuning**
-- 💬 Ask me about **My-Phone Number**
-- ⚡ Fun fact: **I'm half Indian half Filipino**
+- 👯 Looking to collaborate on **AI/ML Projects and Open Source**
+- 💬 Ask me about **TypeScript, JavaScript, Python, AI Chatbots**
+- ⚡ Fun fact: **I'm half Indian half Filipino and love creating AI personalities!**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Primary Languages (Based on My Repos)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Primary Languages" />
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter" alt="AI & ML" />
 </div>
 
 ### 🌐 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,nextjs,tailwind,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend" />
 </div>
 
 ### ⚙️ Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend" />
 </div>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,gcp,azure,docker,kubernetes" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,bash" alt="Databases & Tools" />
 </div>
 
-### 🔧 Tools & Technologies
+### � Mobile Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,linux,bash" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile" />
 </div>
 
 ---
@@ -139,32 +147,64 @@ const aryan = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚀 Project Name 1</h3>
+        <h3 align="center">🤖 Mr-Sarcastic AI Bot</h3>
         <div align="center">  
-          <a href="https://github.com/aryan1429/project1" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Project 1" />
+          <a href="https://github.com/aryan1429/mr-sarcastic" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=mr-sarcastic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Mr-Sarcastic" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/Bot-25D366?style=flat&logo=whatsapp&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💰 Expense Tracker</h3>
+        <div align="center">  
+          <a href="https://github.com/aryan1429/Expense_tracker" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=Expense_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Expense Tracker" />
           </a>
           <br>
           <br>
           <p>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
-        <h3 align="center">⚡ Project Name 2</h3>
+        <h3 align="center">🎵 Text-MoodDJ</h3>
         <div align="center">  
-          <a href="https://github.com/aryan1429/project2" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Project 2" />
+          <a href="https://github.com/aryan1429/Text-MoodDJ" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=Text-MoodDJ&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Text-MoodDJ" />
           </a>
           <br>
           <br>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/Music-1DB954?style=flat&logo=spotify&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💼 My Portfolio</h3>
+        <div align="center">  
+          <a href="https://github.com/aryan1429/My-Portfolio" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan1429&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="My Portfolio" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white" />
           </p>
         </div>
       </td>
@@ -184,15 +224,18 @@ const aryan = {
 
 ```mermaid
 gantt
-    title Professional Journey
+    title My Development Journey
     dateFormat  YYYY-MM-DD
     section Education
-    Computer Science Degree    :2020-01-01, 2024-06-01
-    section Work
-    Intern Developer          :2023-06-01, 2023-12-01
-    Full Stack Developer      :2024-01-01, 2024-12-31
+    Computer Science Studies    :2020-01-01, 2024-06-01
     section Projects
-    Open Source Contributions :2022-01-01, 2024-12-31
+    Web Development Projects     :2022-01-01, 2023-06-01
+    AI & Machine Learning        :2023-06-01, 2024-12-31
+    TypeScript Applications      :2023-01-01, 2024-12-31
+    section Current Work
+    Mr-Sarcastic AI Bot         :2024-01-01, 2024-12-31
+    Text-MoodDJ Project         :2023-06-01, 2024-03-01
+    Portfolio Development       :2023-01-01, 2024-12-31
 ```
 
 ---
@@ -252,12 +295,12 @@ If you like my work and want to support me:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░  65.4%
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░  19.6%
-TypeScript   1 hr 20 mins    █░░░░░░░░░░░░░░░░   7.0%
-CSS          45 mins         ░░░░░░░░░░░░░░░░░   3.9%
-HTML         30 mins         ░░░░░░░░░░░░░░░░░   2.6%
-Other        30 mins         ░░░░░░░░░░░░░░░░░   1.5%
+TypeScript   8 hrs 30 mins   ████████████░░░░░  45.2%
+JavaScript   5 hrs 45 mins   ███████░░░░░░░░░░  30.6%
+Python       3 hrs 20 mins   ████░░░░░░░░░░░░░  17.8%
+HTML         45 mins         ░░░░░░░░░░░░░░░░░   4.0%
+CSS          30 mins         ░░░░░░░░░░░░░░░░░   2.7%
+Other        15 mins         ░░░░░░░░░░░░░░░░░   1.4%
 ```
 <!--END_SECTION:waka-->
 
