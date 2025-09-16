@@ -33,16 +33,16 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## 👾 About Me
 
 ```javascript
 const aryan = {
     pronouns: "He/Him",
-    location: "ðŸŒ India",
+    location: "🌍 India",
     currentFocus: "Full Stack Development & AI",
     learning: ["Machine Learning", "Flutter", "Fine Tuning AI Models"],
-    hobbies: ["ðŸŽ® Gaming", "ðŸ¥Š Boxing", "ðŸŽµ Music", "ðŸ•º Dancing", "ðŸŽ¥ Video Editing"],
-    funFact: "I create AI chatbots with attitude and debug with console.log()! ðŸ˜„",
+    hobbies: ["🎮 Gaming", "🥊 Boxing", "🎶 Music", "🕺🏻 Dancing", "🎬 Video Editing"],
+    funFact: "I love to Debug using Console.log() 😄",
     currentProjects: ["mr-sarcastic", "Text-MoodDJ", "Deep-Learning"],
 };
 ```
