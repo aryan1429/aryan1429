@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://github.com/aryan1429">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Aryan;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Aryan;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!&font=Fira+Code&color=58A6FF" alt="Typing SVG" />
   </a>
 </div>
 
