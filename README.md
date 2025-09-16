@@ -1,4 +1,11 @@
-# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
+# 📊 Metrics [<img src="https://api.producthunt.com/widg  <tr>
+    <th><a href="source/plugins/repositories/README.md">📓 Featured repositories</a></th>
+    <th><a href="source/plugins/disc  <tr>
+    <th><a href="source/plugins/calendar/README.md">📆 Commit calendar</a></th>
+    <th><a href="source/plugins/isocalendar/README.md">📊 Isometric calendar</a></th>
+  </tr>.md">💬 Discussions</a></th>
+  </tr>d-ima  * [♐ Random code snippet <sub>`code`</sub>](/source/plugins/code/README.md)
+  * [🎫 Gists <sub>`gists`</sub>](/source/plugins/gists/README.md)v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
@@ -55,97 +62,12 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
       </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
+    <th><a href="source/plugins/sponsors/README.md">� GitHub Sponsors</a></th>
+    <th><a href="source/plugins/repositories/README.md">� Featured repositories</a></th>
   </tr>
   <tr>
-        <td  align="center">
-        <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
-        <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
-    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
-        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/contributors/README.md">🏅 Repository contributors</a></th>
-    <th><a href="source/plugins/followup/README.md">🎟️ Follow-up of issues and pull requests</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img></details>
-        <details><summary>By number of contributions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img></details>
-        <details><summary>Created on a user's repositories</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img></details>
-        <details><summary>Created by a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/reactions/README.md">🎭 Comment reactions</a></th>
-    <th><a href="source/plugins/people/README.md">🧑‍🤝‍🧑 People</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Related to a user</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.followers.svg" alt=""></img></details>
-        <details><summary>Related to a repository</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.repository.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/sponsorships/README.md">💝 GitHub Sponsorships</a></th>
-    <th><a href="source/plugins/sponsors/README.md">💕 GitHub Sponsors</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsorships.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>GitHub sponsors card</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.svg" alt=""></img></details>
-        <details><summary>GitHub sponsors full introduction</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.sponsors.full.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/repositories/README.md">📓 Featured repositories</a></th>
-    <th><a href="source/plugins/discussions/README.md">💬 Discussions</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Featured</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg" alt=""></img></details>
-        <details><summary>Pinned</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.pinned.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.discussions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
+    <th><a href="source/plugins/starlists/README.md">� Star lists</a></th>
+    <th><a href="source/plugins/calendar/README.md">� Commit calendar</a></th>
   </tr>
   <tr>
     <th><a href="source/plugins/starlists/README.md">💫 Star lists</a></th>
@@ -494,26 +416,18 @@ Plugins provide additional content and lets you customize rendered metrics.
   * [📰 Recent activity <sub>`activity`</sub>](/source/plugins/activity/README.md)
   * [📆 Commit calendar <sub>`calendar`</sub>](/source/plugins/calendar/README.md)
   * [♐ Random code snippet <sub>`code`</sub>](/source/plugins/code/README.md)
-  * [🏅 Repository contributors <sub>`contributors`</sub>](/source/plugins/contributors/README.md)
   * [💬 Discussions <sub>`discussions`</sub>](/source/plugins/discussions/README.md)
-  * [🎟️ Follow-up of issues and pull requests <sub>`followup`</sub>](/source/plugins/followup/README.md)
-  * [🎫 Gists <sub>`gists`</sub>](/source/plugins/gists/README.md)
+  * [ Gists <sub>`gists`</sub>](/source/plugins/gists/README.md)
   * [💡 Coding habits and activity <sub>`habits`</sub>](/source/plugins/habits/README.md)
   * [🙋 Introduction <sub>`introduction`</sub>](/source/plugins/introduction/README.md)
   * [📅 Isometric commit calendar <sub>`isocalendar`</sub>](/source/plugins/isocalendar/README.md)
   * [🈷️ Languages activity <sub>`languages`</sub>](/source/plugins/languages/README.md)
-  * [📜 Repository licenses <sub>`licenses`</sub>](/source/plugins/licenses/README.md)
-  * [👨‍💻 Lines of code changed <sub>`lines`</sub>](/source/plugins/lines/README.md)
+  * [‍💻 Lines of code changed <sub>`lines`</sub>](/source/plugins/lines/README.md)
   * [🎩 Notable contributions <sub>`notable`</sub>](/source/plugins/notable/README.md)
-  * [🧑‍🤝‍🧑 People <sub>`people`</sub>](/source/plugins/people/README.md)
   * [🗂️ GitHub projects <sub>`projects`</sub>](/source/plugins/projects/README.md)
-  * [🎭 Comment reactions <sub>`reactions`</sub>](/source/plugins/reactions/README.md)
   * [📓 Featured repositories <sub>`repositories`</sub>](/source/plugins/repositories/README.md)
   * [🌇 GitHub Skyline <sub>`skyline`</sub>](/source/plugins/skyline/README.md)
-  * [💕 GitHub Sponsors <sub>`sponsors`</sub>](/source/plugins/sponsors/README.md)
-  * [💝 GitHub Sponsorships <sub>`sponsorships`</sub>](/source/plugins/sponsorships/README.md)
   * [✨ Stargazers <sub>`stargazers`</sub>](/source/plugins/stargazers/README.md)
-  * [💫 Star lists <sub>`starlists`</sub>](/source/plugins/starlists/README.md)
   * [🌟 Recently starred repositories <sub>`stars`</sub>](/source/plugins/stars/README.md)
   * [💭 GitHub Community Support <sub>`support`</sub>](/source/plugins/support/README.md) <sub>`⚠️ deprecated`</sub>
   * [📌 Starred topics <sub>`topics`</sub>](/source/plugins/topics/README.md)
