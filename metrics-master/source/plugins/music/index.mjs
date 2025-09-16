@@ -270,11 +270,7 @@ export default async function({login, imports, data, q, account}, {enabled = fal
             try {
               //Request access token
               console.debug(`metrics/compute/${login}/plugins > music > requesting access token with youtube refresh token`)
-              const apiKey = process.env.GOOGLE_API_KEY || process.env.YOUTUBE_MUSIC_API_KEY
-              if (!apiKey) {
-                throw new Error("Google API Key is required. Please set GOOGLE_API_KEY or YOUTUBE_MUSIC_API_KEY environment variable.")
-              }
-              const res = await imports.axios.post(`https://music.youtube.com/youtubei/v1/browse?alt=json&key=${apiKey}`, {
+              const res = await imports.axios.post("https://music.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30", {
                 browseEndpointContextSupportedConfigs: {
                   browseEndpointContextMusicConfig: {
                     pageType: "MUSIC_PAGE_TYPE_PLAYLIST",
