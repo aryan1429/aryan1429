@@ -43,16 +43,15 @@ const aryan = {
     location: "🌍 India",
     currentFocus: "Full Stack Development",
     learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music", "🏃‍♂️ Running"],
+    hobbies: ["🎮 Gaming", "🥊 Boxing", "🎵 Music", "🕺 Dancing", "🎥 Video Editing],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Technologies you're learning]**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 Currently working on **Mr-Sarcastic AI BOT**
+- 🌱 Learning **Flutter for App Development and Fine Tuning**
+- 💬 Ask me about **My-Phone Number**
+- ⚡ Fun fact: **I'm half Indian half Filipino**
 
 ---
 
