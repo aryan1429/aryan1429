@@ -3,10 +3,11 @@
   <img src="h-app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%" />
 </div>
 
-<!-- Introduction -->
+<!-- Typing Animation -->
 <div align="center">
-  <h1>Hello World! 👋</h1>
-  <p>I'm Aryan | Full Stack Developer | Open Source Enthusiast | Always Learning New Things!</p>
+  <a href="https://github.com/aryan1429">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;I'm+Aryan;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!&font=Fira+Code&color=58A6FF" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Profile Views Counter -->
