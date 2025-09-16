@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="h-app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%" />
 </div>
 
 <!-- Typing Animation -->
