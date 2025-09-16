@@ -12,6 +12,8 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
+  <img src="./profile-pic.jpeg" alt="Profile Picture" width="150" style="border-radius: 50%; margin: 20px 0;" />
+  <br>
   <img src="https://visitcount.itsvg.in/api?id=aryan1429&icon=0&color=0" alt="Profile Views" />
 </div>
 
@@ -34,8 +36,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" alt="Profile Picture" width="300" src="./profile-pic.jpeg">
 
 ```javascript
 const aryan = {
