@@ -47,11 +47,11 @@ const aryan = {
 };
 ```
 
-- ðŸ”­ Currently working on **Mr-Sarcastic AI BOT** & **Deep Learning Projects**
-- ðŸŒ± Learning **Flutter for App Development and Fine Tuning**
-- ðŸ‘¯ Looking to collaborate on **AI/ML Projects and Open Source**
-- ðŸ’¬ Ask me about **TypeScript, JavaScript, Python, AI Chatbots**
-- âš¡ Fun fact: **I'm half Indian half Filipino and love creating AI personalities!**
+- 🔥 Currently working on **🤖 Mr-Sarcastic AI BOT** & **🐍 Snake Bite Detection System**
+- 🌱 Learning **📱 Flutter for App Development and Fine Tuning**
+- 🤝 Looking to collaborate on **🤖 AI/ML Projects and Open Source**
+- 💬 Ask me about **💻 TypeScript, JavaScript, Python, AI Chatbots**
+- ⚡ Fun fact: **🇮🇳🇵🇭 I'm half Indian half Filipino and love creating AI personalities!**
 
 ---
 
