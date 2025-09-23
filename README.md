@@ -49,8 +49,8 @@ const aryan = {
 
 - 🔥 Currently working on **🤖 Mr-Sarcastic AI BOT** & **🐍 Snake Bite Detection System**
 - 🌱 Learning **📱 Flutter for App Development and Fine Tuning**
-- 🤝 Looking to collaborate on **🤖 AI/ML Projects and Open Source**
-- 💬 Ask me about **💻 TypeScript, JavaScript, Python, AI Chatbots**
+- 🤝 Looking to collaborate on **🤖 Full Stack Development ,AI/ML Projects and Open Source**
+- 💬 Ask me about **Boxing**
 - ⚡ Fun fact: **🇮🇳🇵🇭 I'm half Indian half Filipino and love creating AI personalities!**
 
 ---
