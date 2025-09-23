@@ -51,7 +51,7 @@ const aryan = {
 - 🌱 Learning **📱 Flutter for App Development and Fine Tuning**
 - 🤝 Looking to collaborate on **🤖 Full Stack Development ,AI/ML Projects and Open Source**
 - 💬 Ask me about **Boxing**
-- ⚡ Fun fact: **🇮🇳🇵🇭 I'm half Indian half Filipino and love creating AI personalities!**
+- ⚡ Fun fact: **🇮🇳🇵🇭 I'm half Filipino half Indian!**
 
 ---
 
