@@ -192,10 +192,6 @@ const aryan = {
 ## 🎵 What I'm Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iwhddd5txnxgdzzgq4tqg2lzqe&count=3" alt="Spotify recently played" />
-  
-  <br><br>
-  
   <a href="https://music.youtube.com/playlist?list=PLbVJJTMnIGGPn96j5DyRfQRxSBf91tfcl&si=vfrlJ0IU9qoUF2IV" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🎵_My_YouTube_Music_Playlist-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music Playlist" />
   </a>
