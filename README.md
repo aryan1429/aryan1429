@@ -232,7 +232,7 @@ const aryan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
-  <p>Made with ❤️ by <a href="https://github.com/aryan1429">Aryan</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/aryan1429">Aryan Aligeti</a></p>
   
   <img src="https://komarev.com/ghpvc/?username=aryan1429&label=Thanks%20for%20visiting%20my%20profile!&color=brightgreen&style=flat" alt="Thanks for visiting" />
 </div>
