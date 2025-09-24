@@ -186,25 +186,6 @@ const aryan = {
   </a>
 </div>
 
----
-
-## 💼 Experience Timeline
-
-```mermaid
-gantt
-    title My Development Journey
-    dateFormat  YYYY-MM-DD
-    section Education
-    Computer Science Studies    :2020-01-01, 2024-06-01
-    section Projects
-    Web Development Projects     :2022-01-01, 2023-06-01
-    AI & Machine Learning        :2023-06-01, 2024-12-31
-    TypeScript Applications      :2023-01-01, 2024-12-31
-    section Current Work
-    Mr-Sarcastic AI Bot         :2024-01-01, 2024-12-31
-    Text-MoodDJ Project         :2023-06-01, 2024-03-01
-    Portfolio Development       :2023-01-01, 2024-12-31
-```
 
 ---
 
@@ -212,24 +193,16 @@ gantt
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iwhddd5txnxgdzzgq4tqg2lzqe&count=3" alt="Spotify recently played" />
-</div>
-
----
-
-## ☕ Support My Work
-
-If you like my work and want to support me:
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/aryan1429" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/aryan1429" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  
+  <br><br>
+  
+  <a href="https://music.youtube.com/playlist?list=PLbVJJTMnIGGPn96j5DyRfQRxSBf91tfcl&si=vfrlJ0IU9qoUF2IV" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🎵_My_YouTube_Music_Playlist-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music Playlist" />
   </a>
 </div>
 
 ---
+
 
 ## 🤝 Let's Connect!
 
