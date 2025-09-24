@@ -127,6 +127,7 @@ const aryan = {
             <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
             <img src="https://img.shields.io/badge/Bot-25D366?style=flat&logo=whatsapp&logoColor=white" />
           </p>
+          <p>An AI-powered chatbot that delivers sarcastic and humorous responses, built with TypeScript.</p>
         </div>
       </td>
       <td width="50%">
@@ -142,6 +143,7 @@ const aryan = {
             <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
           </p>
+          <p>A simple and intuitive expense tracking application built with JavaScript, HTML, and CSS to help manage personal finances.</p>
         </div>
       </td>
     </tr>
@@ -159,6 +161,7 @@ const aryan = {
             <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
             <img src="https://img.shields.io/badge/Music-1DB954?style=flat&logo=spotify&logoColor=white" />
           </p>
+          <p>An AI-driven music recommendation system that analyzes text input to suggest songs based on detected mood, built with Python.</p>
         </div>
       </td>
       <td width="50%">
@@ -174,6 +177,7 @@ const aryan = {
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white" />
           </p>
+          <p>A personal portfolio website showcasing my projects, skills, and experience, built with TypeScript and React.</p>
         </div>
       </td>
     </tr>
