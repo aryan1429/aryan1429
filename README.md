@@ -17,16 +17,16 @@
 
 <!-- Social Links with Hover Effects -->
 <div align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/aryan-aligeti-099ab825b/" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-aligeti-099ab825b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/aryan_alejandro_aligeti" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/aryan_alejandro_aligeti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="aryanaligetibusiness@gmail.com">
+  <a href="mailto:aryanaligetibusiness@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://aryanaligeti.dev" target="_blank">
+  <a href="https://aryanaligeti.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
