@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan1429" alt="Profile Views" />
-</div>
-
 <!-- Social Links with Hover Effects -->
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/aryan-aligeti-099ab825b/" target="_blank" rel="noopener noreferrer">
