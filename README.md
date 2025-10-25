@@ -38,7 +38,7 @@ const aryan = {
     learning: ["Machine Learning", "Flutter", "Fine Tuning AI Models"],
     hobbies: ["🎮 Gaming", "🥊 Boxing", "🎶 Music", "🕺🏻 Dancing", "🎬 Video Editing"],
     funFact: "I love to Debug using Console.log() 😄",
-    currentProjects: ["mr-sarcastic", "AI Based Snake Bite Detection", "Deep-Learning"],
+    currentProjects: ["Expense Tracker", "TextMoodDJ","AI Based Snake Bite Detection", "Deep-Learning"],
 };
 ```
 
