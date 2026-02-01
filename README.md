@@ -78,7 +78,7 @@ const aryan = {
 
 <!-- Detailed Analytics -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1429&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1429&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
