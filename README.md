@@ -61,6 +61,36 @@ const aryan = {
 
 ---
 
+## ☁️ Cloud & Database Infrastructure
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <br><b>Amazon Web Services</b>
+        <br>
+        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white" />
+        <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <br><b>Supabase</b>
+        <br>
+        <img src="https://img.shields.io/badge/Backend-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <br><b>PostgreSQL</b>
+        <br>
+        <img src="https://img.shields.io/badge/Database-316192?style=flat&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
