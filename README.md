@@ -67,6 +67,8 @@ const aryan = {
   <table>
     <tr>
       <td align="center" width="33%">
+        <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS Logo" width="50" height="50"/>
+        <br>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
         <br><b>Amazon Web Services</b>
         <br>
@@ -74,12 +76,16 @@ const aryan = {
         <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white" />
       </td>
       <td align="center" width="33%">
+        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase Logo" width="50" height="50"/>
+        <br>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
         <br><b>Supabase</b>
         <br>
         <img src="https://img.shields.io/badge/Backend-3ECF8E?style=flat&logo=supabase&logoColor=white" />
       </td>
       <td align="center" width="33%">
+        <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL Logo" width="50" height="50"/>
+        <br>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <br><b>PostgreSQL</b>
         <br>
